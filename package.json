@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/YashGupta018/registration_form#readme",
   "dependencies": {
+    "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "mongodb": "^6.5.0",
     "mongoose": "^8.3.0"
